@@ -1,0 +1,5 @@
+{
+  "name": "AI Review Response Assistant",
+  "description": "A minimalist workflow framework for review audits. It uses AI to analyze customer reviews, generate tailored responses, and presents them in a dashboard for human approval, ensuring authentic and empathetic customer engagement.",
+  "requestFramePermissions": []
+}
